@@ -2,11 +2,9 @@
 RiftGen
 </h1>
 <p align="center">
-	Generate your <strong>Card<strong> and make the best <strong>Gift<strong>
+	Generate your <strong>Card</strong> and make the best <strong>Gift<strong>
 </p>
-<p align="center">
  ![GitHub issues](https://img.shields.io/github/issues/adavijit/RiftGen) ![GitHub labels](https://img.shields.io/github/labels/adavijit/RiftGen/help%20wanted)
-</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
