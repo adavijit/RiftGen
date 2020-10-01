@@ -17,16 +17,18 @@ RiftGen
 
 # Overview
 
-Make your own gift cards designs for free with RiftGen's impressively easy to use online gift card creator. Even with no creative skills, you can create and costumizations your gift cards. RiftGen is a toolset make it easier to create a cool gift card.
+Make your own gift cards designs for free with RiftGen's impressively easy to use online gift card creator. Even with no creative skills, you can create and customize your gift cards. RiftGen is a tools that make it easier to create a cool gift card.
 
 # How to Use
 
-For easy use, follow this step :
+Follow this step :
 
 - Download this repository with `git clone`
 - Go to file and run `npm start`
 - Runs the app in the development mode
 - Open <a href="http://localhost:3000">http://localhost:3000<a/> to view it in the browser
+
+
 
 ## Resources
 
@@ -34,3 +36,5 @@ This project was bootstrapped with : <br>
 <a href="https://github.com/facebook/create-react-app">
 <img src="https://github.com/adavijit/RiftGen/blob/master/public/logo192.png" />
 </a>
+
+<h4>Don't forget to give this repository a star! ⭐ </h4>
