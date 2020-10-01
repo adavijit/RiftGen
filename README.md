@@ -1,8 +1,8 @@
-<!-- <h1  align="center">
+<h1  align="center">
 RiftGen
 </h1>
 <p align="center">
-	<i>"Generate your <strong>Card</strong> and make the best <strong>Gift<strong>"</i>
+	<i>"Generate your <strong>Card</strong> and make the best <strong>Gift</strong>"</i>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ RiftGen
     <img src="https://img.shields.io/github/labels/adavijit/RiftGen/help%20wanted" alt="GitHub labels" />
   </a>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/adavijit/RiftGen">
-</p> -->
+</p>
 
 # Overview
 
