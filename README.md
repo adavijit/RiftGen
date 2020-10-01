@@ -32,5 +32,5 @@ For easy use, follow this step :
 
 This project was bootstrapped with :
 <a href="https://github.com/facebook/create-react-app">
-<img src="https://github.com/adavijit/RiftGen/blob/master/src/logo.svg" /> <h5>Create React App</h5>
+<img src="https://github.com/adavijit/RiftGen/blob/master/public/logo192.png" />
 </a>
