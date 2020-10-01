@@ -30,7 +30,7 @@ For easy use, follow this step :
 
 ## Resources
 
-This project was bootstrapped with :
+This project was bootstrapped with : <br>
 <a href="https://github.com/facebook/create-react-app">
 <img src="https://github.com/adavijit/RiftGen/blob/master/public/logo192.png" />
 </a>
