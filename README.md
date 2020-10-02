@@ -29,12 +29,10 @@ Follow this step :
 - Open <a href="http://localhost:3000">http://localhost:3000<a/> to view it in the browser
 
 
-
 ## Resources
 
 This project was bootstrapped with : <br>
 <a href="https://github.com/facebook/create-react-app">
 <img src="https://github.com/adavijit/RiftGen/blob/master/public/logo192.png" />
 </a>
-
 <h4>Don't forget to give this repository a star! ⭐ </h4>
